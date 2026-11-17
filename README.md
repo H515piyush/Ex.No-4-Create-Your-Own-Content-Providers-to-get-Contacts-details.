@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text create your own content providers to get contacts details.
-Developed by: Mohamed Piyush kumar
+Developed by: Piyush kumar
 Registeration Number :212223220075
 */
 ```
@@ -69,14 +69,14 @@ public class MainActivity extends AppCompatActivity {
         contacts.append("Name: Amit\n");
         contacts.append("Phone: 9876543210\n\n");
 
-        contacts.append("Name: Arun\n");
+        contacts.append("Name: Aruna\n");
         contacts.append("Phone: 9876543211\n\n");
 
         contacts.append("Name: Aditya\n");
         contacts.append("Phone: 9876543212\n\n");
 
-        contacts.append("Name: Priya\n");
-        contacts.append("Phone: 9876543213\n\n");
+        contacts.append("Name: Piyush\n");
+        contacts.append("Phone: 7488382979\n\n");
 
         textView2.setText(contacts.toString());
     }
@@ -179,8 +179,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-<img width="1917" height="1020" alt="Screenshot 2026-11-17 090031" src="https://github.com/user-attachments/assets/29ef1946-6f36-4db9-9900-175f5e94e4e7" />
-<img width="1917" height="1042" alt="Screenshot 2026-11-17 090043" src="https://github.com/user-attachments/assets/2caf8ca4-14b0-48e8-82a4-9b4e17e0a63b" />
+<img width="1917" height="1020" alt="Screenshot 2026-11-17 090031" src="https://github.com/user-attachments/assets/2cb11e94-d256-4c9e-afe1-facd5bed7276" />
+<img width="1915" height="1072" alt="Screenshot 2026-11-17 090951" src="https://github.com/user-attachments/assets/a351b579-2257-4008-8974-f431fcc79b2d" />
 
 
 ## RESULT
